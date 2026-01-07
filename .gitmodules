@@ -1,6 +1,7 @@
 [submodule "FreeRTOS/Source"]
 	path = FreeRTOS/Source
-	url = https://github.com/FreeRTOS/FreeRTOS-Kernel.git
+	url = https://github.com/cheeunn/FreeRTOS-Kernel.git
+	branch = main
 [submodule "FreeRTOS/Test/CMock/CMock"]
 	path = FreeRTOS/Test/CMock/CMock
 	url = https://github.com/ThrowTheSwitch/CMock.git
@@ -57,7 +58,8 @@
 	url = https://github.com/FreeRTOS/coreSNTP.git
 [submodule "FreeRTOS/Demo/ThirdParty/Community-Supported-Demos"]
 	path = FreeRTOS/Demo/ThirdParty/Community-Supported-Demos
-	url = https://github.com/FreeRTOS/FreeRTOS-Community-Supported-Demos
+	url = https://github.com/cheeunn/FreeRTOS-Community-Supported-Demos.git
+	branch = main
 [submodule "FreeRTOS/Demo/ThirdParty/Partner-Supported-Demos"]
 	path = FreeRTOS/Demo/ThirdParty/Partner-Supported-Demos
 	url = https://github.com/FreeRTOS/FreeRTOS-Partner-Supported-Demos
